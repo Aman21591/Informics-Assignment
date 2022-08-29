@@ -1,4 +1,3 @@
-# Informics project for [@ramonak/react-excel](https://www.npmjs.com/package/@ramonak/react-excel) library
 
 ## Run the code
 
